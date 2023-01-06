@@ -1,0 +1,17 @@
+D:\Play\TestCNN\TestCNN\bin\Debug\net6.0-windows\TestCNN.exe
+D:\Play\TestCNN\TestCNN\bin\Debug\net6.0-windows\TestCNN.deps.json
+D:\Play\TestCNN\TestCNN\bin\Debug\net6.0-windows\TestCNN.runtimeconfig.json
+D:\Play\TestCNN\TestCNN\bin\Debug\net6.0-windows\TestCNN.dll
+D:\Play\TestCNN\TestCNN\bin\Debug\net6.0-windows\TestCNN.pdb
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.csproj.AssemblyReference.cache
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.Form1.resources
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.csproj.GenerateResource.cache
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.AssemblyInfoInputs.cache
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.AssemblyInfo.cs
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.csproj.CoreCompileInputs.cache
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.dll
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\refint\TestCNN.dll
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.pdb
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\TestCNN.genruntimeconfig.cache
+D:\Play\TestCNN\TestCNN\obj\Debug\net6.0-windows\ref\TestCNN.dll

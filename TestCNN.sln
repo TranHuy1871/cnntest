@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCNN", "TestCNN\TestCNN.csproj", "{CF44D4DE-ACE5-42BE-8B91-0C02DC999984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF44D4DE-ACE5-42BE-8B91-0C02DC999984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF44D4DE-ACE5-42BE-8B91-0C02DC999984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF44D4DE-ACE5-42BE-8B91-0C02DC999984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF44D4DE-ACE5-42BE-8B91-0C02DC999984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {458310B0-B4EA-4310-B98D-C2D1CD08DDD0}
+	EndGlobalSection
+EndGlobal
